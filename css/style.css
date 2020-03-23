@@ -1,0 +1,386 @@
+body{
+    font-family: "HelveticaNeueCyr-Roman";
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: url(../img/Banner_slider_cybersecurity\ 1.png) center no-repeat;
+    background-size: cover;
+    height: 920px;
+    margin: 0;
+}
+.opacity{
+    background: rgba(0, 0, 0, 0.2);
+    height: 920px;
+}
+.contain{
+    margin: 0 auto;
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+
+}
+
+.contain-2{
+    margin: 0 auto;
+    width: 871px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contain-3{
+    margin: 0 auto;
+    width: 698px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.padding-top{
+    padding-top: 30px;
+    
+}
+.nav{
+    display: inline-flex;
+    font-family: Montserrat;
+    font-size: 18px;
+
+}
+.nav-menu{
+
+    color: #ffffff;
+    text-decoration: none;
+    padding: 7px 7px;
+}
+.nav-menu:hover{
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.nav-contact{
+
+    font-size: 18px;
+    display: block;
+    color: #ffffff;
+    line-height: 1.5;
+}
+.contact-number{
+    font-family: Oswald;
+    font-style: Regular;
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    line-height: 27px;
+
+}
+
+.main-header{
+    font-family: HelveticaNeueCyr-Bold;
+    font-size: 72px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 90px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+
+}
+.date{
+    font-family: HelveticaNeueCyr-Bold;
+    font-size: 72px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 48px;
+    letter-spacing: 10px;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+}
+.header-section{
+    color: #ffffff;
+    text-align: center;
+    font-family: HelveticaNeueCyr-Bold;
+    font-size: 30px;
+    margin-top: 70px;
+}
+.button{
+
+    font-family: Montserrat;
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 18px 41px;
+    background: #01B84F;
+    border-radius: 5px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.button:hover{
+    background: rgb(11, 121, 59);
+}
+.arrow{
+    margin-top: 12px;
+}
+
+.screen-2{
+    margin-top: 48px;
+}
+
+.screen-3{
+    margin-top: 38px;
+}
+
+.text-header{
+    font-family: HelveticaNeueCyr-Medium;
+    font-size: 48px;
+    padding-top: 60px;
+}
+.text-header-2{
+    font-family: HelveticaNeueCyr-Medium;
+    font-size: 24px;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.text-header-3{
+    font-family: HelveticaNeueCyr-Medium;
+    font-size: 24px;
+    margin-top: 70px;
+    text-align: center;
+    width: 710px;
+}
+.article{
+    font-family: HelveticaNeueCyr-Medium;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 83px;
+
+}
+
+.colspan-1{
+    width: 434px;
+    height: 755px;
+    margin-right: 24px;
+    background: url(../img/Audit-biznesa\ 1.png) #000000;
+    border-radius: 5px;
+
+}
+
+.colspan-2{
+    width: 271px;
+    height: 755px;
+    margin-right: 24px;
+    
+}
+
+.colspan-2-1{
+    width: 271px;
+    height: 363px;
+    background: url(../img/digital-solutions\ 1.png);
+    border-radius: 5px;
+}
+
+.colspan-2-2{
+    width: 271px;
+    height: 368px;
+    margin-top: 24px;
+    background: url(../img/1471959547_dd6a5f44244cb924993c89768f06caf9\ 1.png);
+    border-radius: 5px;
+}
+.colspan-3{
+    width: 220px;
+    height: 755px;
+    margin-right: 24px;
+
+}
+
+.colspan-3-1{
+    width: 220px;
+    height: 210px;
+ 
+    background: url(../img/Digital-Transformation\ 1.png);
+    border-radius: 5px;
+}
+
+.colspan-3-2{
+    width: 220px;
+    height: 243px;
+    margin-top: 24px;
+    background: url(../img/maduracion-digital-banca-1100x487\ 1.png);
+    border-radius: 5px;
+}
+
+.colspan-3-3{
+    width: 220px;
+    height: 254px;
+    margin-top: 24px;
+    background: url(../img/NEWS-DIG-FACTORY-915x450\ 1.png);
+    border-radius: 5px;
+}
+
+.colspan-4{
+    width: 220px;
+    height: 755px;
+
+}
+.colspan-4-1{
+    width: 220px;
+    height: 363px;
+    background: url(../img/depositphotos_77609656-stock-illustration-gears-on-abstract-vector-background\ 1.png);
+    border-radius: 5px;
+}
+
+.colspan-4-2{
+    width: 220px;
+    height: 368px;
+    margin-top: 24px;
+    background: url(../img/1572420172_846655_1572420682_noticia_normal\ 1.png);
+    border-radius: 5px;
+}
+.opacity-2{
+    background: linear-gradient(180deg, rgba(24, 74, 79, 0.7) 0%, rgba(6, 10, 36, 0.7) 100%);   
+    width: 100%;
+    height: 100%;
+
+    border-radius: 5px;
+}
+.opacity-2:hover{
+    background: none;
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 18px;
+    height: 100%;
+    line-height: 27px;
+    text-decoration: none;
+}
+.text:hover{
+    color: #000000;
+    font-weight: 700;
+}
+.header-form{
+    padding-top: 100px;
+    font-family: HelveticaNeueCyr-Roman;
+    font-size: 48px;
+    line-height: 47px;
+    text-align: center;
+}
+
+.form{
+    margin-top: 70px;
+    width: 698px;
+    height: 250px;
+    
+}
+.form-group{
+    margin-bottom: 5px;
+}
+.form-input{
+    padding: 5px;
+    border: solid #000000;
+    border-width: 0 0 1px 0;
+    width: 100%;
+    height: 100%;
+    font-family: Montserrat;
+    font-size: 18px;
+    color: #000000;
+    outline: 0;
+}
+
+
+footer{
+    background: #000000;
+    margin-top: 150px;
+    height: 300px;
+
+}
+.footer-top{
+    margin-top: 110px;
+}
+.flex-contain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1180px;
+    margin: 0 auto;
+    height: 100%;
+
+}
+.flex-footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+ 
+    
+}
+.social{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+
+.social-2{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.social-3{
+    width: 24px;
+    height: 24px;
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+.form-input::-webkit-input-placeholder {color:#000000;}
+::-moz-placeholder          {columns: #000000;;}/* Firefox 19+ */
+:-moz-placeholder           {columns: #000000;;}/* Firefox 18- */
+:-ms-input-placeholder      {color:#000;}
+:focus::-webkit-input-placeholder {color: transparent}
+:focus::-moz-placeholder          {color: transparent}
+:focus:-moz-placeholder           {color: transparent}
+:focus:-ms-input-placeholder      {color: transparent}
+
+@font-face {
+
+    font-family: "HelveticaNeueCyr-Roman"; 
+    src: url("../fonts/HelveticaNeueCyr-Roman.woff") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+@font-face {
+
+    font-family: "HelveticaNeueCyr-Medium"; 
+    src: url("../fonts/HelveticaNeueCyr-Medium.woff") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+@font-face {
+
+    font-family: "HelveticaNeueCyr-Bold"; 
+    src: url("../fonts/HelveticaNeueCyr-Bold.woff") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+            } 
