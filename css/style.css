@@ -254,7 +254,7 @@ header{
     border-radius: 5px;
 }
 .opacity-2:hover{
-    background: none;
+    background: linear-gradient(rgba(24, 74, 79, 0.7) 100%, rgba(6, 10, 36, 0.7) 0%);;
 
 }
 .text{
@@ -269,10 +269,7 @@ header{
     line-height: 27px;
     text-decoration: none;
 }
-.text:hover{
-    color: #000000;
-    font-weight: 700;
-}
+
 .header-form{
     padding-top: 100px;
     font-family: HelveticaNeueCyr-Roman;
